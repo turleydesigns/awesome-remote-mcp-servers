@@ -1288,6 +1288,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SlopScore](https://slopscore.org) `https://slopscore.org/mcp`
   [![SlopScore MCP connector](https://glama.ai/mcp/connectors/org.slopscore/slopscore/badges/score.svg)](https://glama.ai/mcp/connectors/org.slopscore/slopscore)
   🔓 - Browse, search and scan a public leaderboard of AI-generated GitHub repos; voting needs a GitHub token.
+- [Smoke Run](https://getsmokerun.com) `https://getsmokerun.com/api/mcp`
+  [![Smoke Run MCP connector](https://glama.ai/mcp/connectors/com.getsmokerun/smoke-run/badges/score.svg)](https://glama.ai/mcp/connectors/com.getsmokerun/smoke-run)
+  🔓 - Free read-only teardown of a public site's money path (checkout, lead form, funnel) with the dollar at risk.
 - [Software Sausage](https://softwaresausage.com/mcp) `https://softwaresausage.com/api/mcp`
   [![Software Sausage MCP connector](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes)
   🔓 - Search independent software and read-only agent workflows with roles, checks and safety boundaries.
